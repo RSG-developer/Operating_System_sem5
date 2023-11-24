@@ -1,3 +1,5 @@
+/*First come Firts serve */
+
 #include<stdio.h>
 #include<stdlib.h>
 
